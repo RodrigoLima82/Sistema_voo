@@ -3,7 +3,7 @@
 
 Você já parou para pensar como as companhias aéreas montam seus voos e mais ainda como combinam suas tripulações, com o objetivo de otimizar os serviços e claro reduzir custos?
 
-Esse projeto tem como objetivo exatamente fazê-lo pensar sobe isso. 
+Esse projeto tem como objetivo exatamente fazê-lo pensar sobre isso. 
 
 Esse não é um script de Machine Learning convencional, mas sim um algoritmo que vai buscar as melhores combinações de tripulação para os voos de uma companhia aérea. 
 Muitos fatores são envolvidos neste processo, sendo o principal, a busca por  padrões  em  um  dataset,  tarefa  típica  do  aprendizado  de  máquina,  e combinação de padrões. 
